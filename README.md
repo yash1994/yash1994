@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on Bitrate optimization for VOD.
 - 🌱 I’m currently learning Video Enconding Techniques.
-- 📫 You can reach on Twitter: [@PatadiaYash](https://twitter.com/PatadiaYash)
+- 📫 You can reach out to me on Twitter: [@PatadiaYash](https://twitter.com/PatadiaYash)
